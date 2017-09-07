@@ -1,6 +1,6 @@
 Type following command in android studio terminal
 
-
+Make sure internet is connected
 
 
 keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
