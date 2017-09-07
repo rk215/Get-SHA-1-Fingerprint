@@ -1,0 +1,6 @@
+Type following command in android studio terminal
+
+
+
+
+keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
